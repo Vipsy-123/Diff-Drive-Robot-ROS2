@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/vipul/ros2_ws/src/activities"
+    "cmake.sourceDirectory": "/home/vipul/ros2_ws/src/activities",
+    "idf.port": "/dev/ttyUSB0"
 }
