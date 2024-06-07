@@ -13,6 +13,9 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/HardwareStatus.msg"
   "msg/LedStates.msg"
   "srv/SetLed.srv"
+  "srv/CatchTurtle.srv"
+  "msg/Turtle.msg"
+  "msg/TurtleArray.msg"
 )
 
 ament_export_dependencies(rosidl_default_runtime)
