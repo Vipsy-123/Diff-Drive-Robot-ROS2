@@ -26,6 +26,7 @@ def generate_launch_description():
         arguments=['-d', rviz_config_path]
     )
 
+
     return LaunchDescription([
         robot_state_publisher_node,
         joint_state_publisher_node,
