@@ -4,5 +4,17 @@
     <gazebo reference="base_link">
         <material>Gazebo/Blue</material>    
     </gazebo>
+
+    <gazebo reference="right_wheel_link">
+        <material>Gazebo/Grey</material>    
+    </gazebo>
+
+    <gazebo reference="left_wheel_link">
+        <material>Gazebo/Grey</material>    
+    </gazebo>
+
+    <gazebo reference="caster_wheel_link">
+        <material>Gazebo/Grey</material>    
+    </gazebo>
     
 </robot>
