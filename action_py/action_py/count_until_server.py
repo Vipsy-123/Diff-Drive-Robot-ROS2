@@ -2,7 +2,7 @@
 import rclpy
 from rclpy.node import Node
 from rclpy.action import ActionServer
-from example_interfaces.action import CountUntil
+from my_robot_interfaces.action import CountUntil
 import time
 
 class CountUntilServer(Node):
