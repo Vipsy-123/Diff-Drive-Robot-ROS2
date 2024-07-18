@@ -6,7 +6,7 @@ from rclpy.action.client import ClientGoalHandle,GoalStatus
 from my_robot_interfaces.action import CountUntil
 
 class CountUntilClient(Node):
-    def __init__(self):
+    def __init__(self): 
         super().__init__("count_until_action_server")
         self.count_until_client_ = ActionClient(self,CountUntil,"count_until")
         self.get_logger().info("Action Client sending goal.")
@@ -27,7 +27,8 @@ class CountUntilClient(Node):
             send_goal_async(goal,feedback_callback=self.goal_feedback_callback). \
             add_done_callback(self.goal_response_callback)
         
-        self.timer_ = self.create_timer(2.0, self.cancel_goal)
+        # To send a Cancel Request
+        # self.timer_ = self.create_timer(2.0, self.cancel_goal)
         
     # Check if Goal is Accepted & Send the request for the result
     def goal_response_callback(self,future):
