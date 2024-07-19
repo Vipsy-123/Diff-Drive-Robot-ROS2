@@ -17,6 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Turtle.msg"
   "msg/TurtleArray.msg"
   "action/CountUntil.action"
+  "action/PoseGoal.action"
 )
 
 ament_export_dependencies(rosidl_default_runtime)

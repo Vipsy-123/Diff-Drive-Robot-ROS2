@@ -98,7 +98,7 @@ class CountUntilServer(Node):
         self.process_next_goal_in_queue()
         return result
     
-    # Queue Goals
+    # Policy : Queue Goals
     def process_next_goal_in_queue(self):
         with self.goal_lock:
             if len(self.goal_queue):

@@ -21,7 +21,10 @@ setup(
     entry_points={
         'console_scripts': [
             "count_until_server=action_py.count_until_server:main",
-            "count_until_client=action_py.count_until_client:main"
+            "count_until_client=action_py.count_until_client:main",
+            "action_challenge_client=action_py.actions_challenge_client:main",
+            "action_challenge_server=action_py.actions_challenge_server:main"
+
         ],
     },
 )
