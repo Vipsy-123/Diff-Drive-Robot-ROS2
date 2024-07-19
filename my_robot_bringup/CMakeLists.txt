@@ -8,8 +8,8 @@ endif()
 # find dependencies
 find_package(ament_cmake REQUIRED)
 
-install(
-  DIRECTORY launch rviz worlds
+install(DIRECTORY
+  launch
   DESTINATION share/${PROJECT_NAME}/
 )
 
