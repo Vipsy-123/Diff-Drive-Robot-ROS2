@@ -1,0 +1,6 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/multi_threaded_executor.dir/src/multi_threaded_executor.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/single_threaded_executor.dir/src/single_threaded_executor.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable multi_threaded_executor[0m
+[ 75%] Built target multi_threaded_executor
+[100%] [32m[1mLinking CXX executable single_threaded_executor[0m
+[100%] Built target single_threaded_executor

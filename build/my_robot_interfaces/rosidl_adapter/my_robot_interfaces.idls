@@ -1,0 +1,8 @@
+/ws/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/HardwareStatus.idl
+/ws/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/LedStates.idl
+/ws/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/SetLed.idl
+/ws/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/CatchTurtle.idl
+/ws/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/Turtle.idl
+/ws/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/TurtleArray.idl
+/ws/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:action/CountUntil.idl
+/ws/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:action/PoseGoal.idl

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/ws/ros2_ws/src/build/components_cpp/libnumber_pub_component.so" "TARGETS" "number_pub_component" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin" "DESTINATION" "lib/components_cpp/")

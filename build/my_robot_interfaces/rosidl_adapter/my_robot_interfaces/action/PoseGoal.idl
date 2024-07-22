@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from my_robot_interfaces/action/PoseGoal.action
+// generated code does not contain a copyright notice
+
+
+module my_robot_interfaces {
+  module action {
+    struct PoseGoal_Goal {
+      int64 target_position;
+
+      int64 velocity;
+    };
+    struct PoseGoal_Result {
+      int64 reached_position;
+
+      string message;
+    };
+    struct PoseGoal_Feedback {
+      int64 current_position;
+    };
+  };
+};

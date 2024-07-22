@@ -1,0 +1,13 @@
+[0.639s] Invoking command in '/ws/ros2_ws/src/build/my_cpp_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/my_cpp_package -- -j24 -l24
+[1.322s] [ 12%] [32mBuilding CXX object CMakeFiles/cpp_publisher.dir/src/cpp_publisher.cpp.o[0m
+[1.322s] [ 25%] [32mBuilding CXX object CMakeFiles/add_two_ints_client.dir/src/add_two_ints_client.cpp.o[0m
+[1.322s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_subscriber.dir/src/cpp_subscriber.cpp.o[0m
+[1.322s] [ 50%] [32mBuilding CXX object CMakeFiles/add_two_ints_server.dir/src/add_two_ints_server.cpp.o[0m
+[4.136s] [ 62%] [32m[1mLinking CXX executable add_two_ints_server[0m
+[4.224s] [ 75%] [32m[1mLinking CXX executable add_two_ints_client[0m
+[4.240s] [ 75%] Built target add_two_ints_server
+[4.336s] [ 75%] Built target add_two_ints_client
+[4.589s] [ 87%] [32m[1mLinking CXX executable cpp_publisher[0m
+[4.699s] [ 87%] Built target cpp_publisher
+[6.399s] [100%] [32m[1mLinking CXX executable cpp_subscriber[0m
+[6.591s] [100%] Built target cpp_subscriber

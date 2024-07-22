@@ -1,0 +1,1 @@
+/ws/ros2_ws/src/build/my_robot_interfaces/rosidl_typesupport_fastrtps_cpp/my_robot_interfaces/action/detail/pose_goal__rosidl_typesupport_fastrtps_cpp.hpp

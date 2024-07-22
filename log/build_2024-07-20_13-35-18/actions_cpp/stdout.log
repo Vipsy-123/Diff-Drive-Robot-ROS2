@@ -1,0 +1,26 @@
+[35m[1mConsolidate compiler generated dependencies of target count_until_server_queue_goals[0m
+[35m[1mConsolidate compiler generated dependencies of target count_until_client[0m
+[35m[1mConsolidate compiler generated dependencies of target count_until_server[0m
+[ 66%] Built target count_until_server_queue_goals
+[ 66%] Built target count_until_client
+[100%] Built target count_until_server
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/lib/actions_cpp//count_until_server
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/lib/actions_cpp//count_until_server_queue_goals
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/lib/actions_cpp//count_until_client
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/ament_index/resource_index/package_run_dependencies/actions_cpp
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/ament_index/resource_index/parent_prefix_path/actions_cpp
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/environment/ament_prefix_path.sh
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/environment/ament_prefix_path.dsv
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/environment/path.sh
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/environment/path.dsv
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/local_setup.bash
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/local_setup.sh
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/local_setup.zsh
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/local_setup.dsv
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/package.dsv
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/ament_index/resource_index/packages/actions_cpp
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/cmake/actions_cppConfig.cmake
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/cmake/actions_cppConfig-version.cmake
+-- Symlinking: /ws/ros2_ws/src/install/actions_cpp/share/actions_cpp/package.xml

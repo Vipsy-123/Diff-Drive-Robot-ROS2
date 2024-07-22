@@ -1,0 +1,15 @@
+[0.316s] Invoking command in '/ws/ros2_ws/src/build/components_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/components_cpp -- -j24 -l24
+[0.775s] [35m[1mConsolidate compiler generated dependencies of target number_pub_component[0m
+[0.775s] [ 50%] [32mBuilding CXX object CMakeFiles/number_pub_component.dir/src/number_publisher.cpp.o[0m
+[1.952s] [01m[K/ws/ros2_ws/src/components_cpp/src/number_publisher.cpp:[m[K In function ‘[01m[Kvoid my_namespace::publishNumber()[m[K’:
+[1.953s] [01m[K/ws/ros2_ws/src/components_cpp/src/number_publisher.cpp:22:20:[m[K [01;31m[Kerror: [m[K‘[01m[Knumber_[m[K’ was not declared in this scope
+[1.953s]    22 |         msg.data = [01;31m[Knumber_[m[K;
+[1.953s]       |                    [01;31m[K^~~~~~~[m[K
+[1.956s] [01m[K/ws/ros2_ws/src/components_cpp/src/number_publisher.cpp:23:9:[m[K [01;31m[Kerror: [m[K‘[01m[Knumber_publisher_[m[K’ was not declared in this scope; did you mean ‘[01m[KNumberPublisher[m[K’?
+[1.956s]    23 |         [01;31m[Knumber_publisher_[m[K->publish(msg);
+[1.956s]       |         [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+[1.956s]       |         [32m[KNumberPublisher[m[K
+[2.554s] gmake[2]: *** [CMakeFiles/number_pub_component.dir/build.make:76: CMakeFiles/number_pub_component.dir/src/number_publisher.cpp.o] Error 1
+[2.554s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/number_pub_component.dir/all] Error 2
+[2.554s] gmake: *** [Makefile:146: all] Error 2
+[2.557s] Invoked command in '/ws/ros2_ws/src/build/components_cpp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/components_cpp -- -j24 -l24

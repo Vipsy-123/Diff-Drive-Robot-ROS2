@@ -1,0 +1,23 @@
+[0.038s] Invoking command in '/ws/ros2_ws/src/build/lifecycle_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/lifecycle_cpp -- -j24 -l24
+[0.753s] [100%] Built target number_publisher
+[0.757s] Invoked command in '/ws/ros2_ws/src/build/lifecycle_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/lifecycle_cpp -- -j24 -l24
+[0.924s] Invoking command in '/ws/ros2_ws/src/build/lifecycle_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --install /ws/ros2_ws/src/build/lifecycle_cpp
+[0.933s] -- Install configuration: ""
+[0.933s] -- Execute custom install script
+[0.934s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/lib/lifecycle_cpp//number_publisher
+[0.937s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/ament_index/resource_index/package_run_dependencies/lifecycle_cpp
+[0.942s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/ament_index/resource_index/parent_prefix_path/lifecycle_cpp
+[0.948s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/environment/ament_prefix_path.sh
+[0.954s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/environment/ament_prefix_path.dsv
+[0.960s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/environment/path.sh
+[0.966s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/environment/path.dsv
+[0.972s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/local_setup.bash
+[0.979s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/local_setup.sh
+[0.986s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/local_setup.zsh
+[0.991s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/local_setup.dsv
+[0.997s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/package.dsv
+[1.004s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/ament_index/resource_index/packages/lifecycle_cpp
+[1.011s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/cmake/lifecycle_cppConfig.cmake
+[1.017s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/cmake/lifecycle_cppConfig-version.cmake
+[1.024s] -- Symlinking: /ws/ros2_ws/src/install/lifecycle_cpp/share/lifecycle_cpp/package.xml
+[1.033s] Invoked command in '/ws/ros2_ws/src/build/lifecycle_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --install /ws/ros2_ws/src/build/lifecycle_cpp

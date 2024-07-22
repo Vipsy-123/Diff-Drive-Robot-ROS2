@@ -1,0 +1,4 @@
+[35m[1mConsolidate compiler generated dependencies of target single_threaded_executor[0m
+[35m[1mConsolidate compiler generated dependencies of target multi_threaded_executor[0m
+[ 50%] Built target multi_threaded_executor
+[100%] Built target single_threaded_executor

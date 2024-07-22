@@ -1,0 +1,39 @@
+[1.783s] Invoking command in '/ws/ros2_ws/src/build/action_py': PYTHONPATH=/ws/ros2_ws/src/build/action_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/action_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/src/build/action_py/build --no-deps symlink_data
+[2.274s] running develop
+[2.274s] /home/vipul/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[2.274s] !!
+[2.274s] 
+[2.275s]         ********************************************************************************
+[2.275s]         Please avoid running ``setup.py`` and ``easy_install``.
+[2.275s]         Instead, use pypa/build, pypa/installer or other
+[2.275s]         standards-based tools.
+[2.275s] 
+[2.275s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[2.275s]         ********************************************************************************
+[2.275s] 
+[2.275s] !!
+[2.275s]   easy_install.initialize_options(self)
+[2.440s] running egg_info
+[2.440s] creating action_py.egg-info
+[2.450s] writing action_py.egg-info/PKG-INFO
+[2.451s] writing dependency_links to action_py.egg-info/dependency_links.txt
+[2.451s] writing entry points to action_py.egg-info/entry_points.txt
+[2.451s] writing requirements to action_py.egg-info/requires.txt
+[2.451s] writing top-level names to action_py.egg-info/top_level.txt
+[2.451s] writing manifest file 'action_py.egg-info/SOURCES.txt'
+[2.474s] reading manifest file 'action_py.egg-info/SOURCES.txt'
+[2.475s] writing manifest file 'action_py.egg-info/SOURCES.txt'
+[2.485s] running build_ext
+[2.485s] Creating /ws/ros2_ws/src/install/action_py/lib/python3.10/site-packages/action-py.egg-link (link to .)
+[2.486s] Installing action_challenge_client script to /ws/ros2_ws/src/install/action_py/lib/action_py
+[2.486s] Installing action_challenge_server script to /ws/ros2_ws/src/install/action_py/lib/action_py
+[2.486s] Installing count_until_client script to /ws/ros2_ws/src/install/action_py/lib/action_py
+[2.486s] Installing count_until_server script to /ws/ros2_ws/src/install/action_py/lib/action_py
+[2.486s] 
+[2.486s] Installed /ws/ros2_ws/src/build/action_py
+[2.486s] running symlink_data
+[2.486s] creating /ws/ros2_ws/src/install/action_py/share/ament_index
+[2.486s] creating /ws/ros2_ws/src/install/action_py/share/ament_index/resource_index
+[2.486s] creating /ws/ros2_ws/src/install/action_py/share/ament_index/resource_index/packages
+[2.486s] symbolically linking /ws/ros2_ws/src/build/action_py/resource/action_py -> /ws/ros2_ws/src/install/action_py/share/ament_index/resource_index/packages
+[2.486s] symbolically linking /ws/ros2_ws/src/build/action_py/package.xml -> /ws/ros2_ws/src/install/action_py/share/action_py

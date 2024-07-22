@@ -1,0 +1,5 @@
+[console_scripts]
+batteryNode = activity.batteryNode:main
+ledPanelNode = activity.ledPanelNode:main
+num_pub = activity.number_publisher:main
+number_counter = activity.number_counter:main

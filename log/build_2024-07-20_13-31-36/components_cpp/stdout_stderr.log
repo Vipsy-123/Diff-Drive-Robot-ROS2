@@ -1,0 +1,13 @@
+[35m[1mConsolidate compiler generated dependencies of target number_pub_component[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/number_pub_component.dir/src/number_publisher.cpp.o[0m
+[01m[K/ws/ros2_ws/src/components_cpp/src/number_publisher.cpp:[m[K In function ‘[01m[Kvoid my_namespace::publishNumber()[m[K’:
+[01m[K/ws/ros2_ws/src/components_cpp/src/number_publisher.cpp:22:20:[m[K [01;31m[Kerror: [m[K‘[01m[Knumber_[m[K’ was not declared in this scope
+   22 |         msg.data = [01;31m[Knumber_[m[K;
+      |                    [01;31m[K^~~~~~~[m[K
+[01m[K/ws/ros2_ws/src/components_cpp/src/number_publisher.cpp:23:9:[m[K [01;31m[Kerror: [m[K‘[01m[Knumber_publisher_[m[K’ was not declared in this scope; did you mean ‘[01m[KNumberPublisher[m[K’?
+   23 |         [01;31m[Knumber_publisher_[m[K->publish(msg);
+      |         [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+      |         [32m[KNumberPublisher[m[K
+gmake[2]: *** [CMakeFiles/number_pub_component.dir/build.make:76: CMakeFiles/number_pub_component.dir/src/number_publisher.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/number_pub_component.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

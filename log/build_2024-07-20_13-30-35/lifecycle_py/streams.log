@@ -1,0 +1,32 @@
+[1.390s] Invoking command in '/ws/ros2_ws/src/build/lifecycle_py': PYTHONPATH=/ws/ros2_ws/src/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/lifecycle_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/src/build/lifecycle_py/build --no-deps symlink_data
+[1.643s] running develop
+[1.643s] /home/vipul/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[1.644s] !!
+[1.644s] 
+[1.644s]         ********************************************************************************
+[1.644s]         Please avoid running ``setup.py`` and ``easy_install``.
+[1.644s]         Instead, use pypa/build, pypa/installer or other
+[1.644s]         standards-based tools.
+[1.644s] 
+[1.644s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[1.644s]         ********************************************************************************
+[1.645s] 
+[1.645s] !!
+[1.646s]   easy_install.initialize_options(self)
+[1.811s] running egg_info
+[1.821s] writing lifecycle_py.egg-info/PKG-INFO
+[1.821s] writing dependency_links to lifecycle_py.egg-info/dependency_links.txt
+[1.822s] writing entry points to lifecycle_py.egg-info/entry_points.txt
+[1.822s] writing requirements to lifecycle_py.egg-info/requires.txt
+[1.822s] writing top-level names to lifecycle_py.egg-info/top_level.txt
+[1.842s] reading manifest file 'lifecycle_py.egg-info/SOURCES.txt'
+[1.843s] writing manifest file 'lifecycle_py.egg-info/SOURCES.txt'
+[1.855s] running build_ext
+[1.855s] Creating /ws/ros2_ws/src/install/lifecycle_py/lib/python3.10/site-packages/lifecycle-py.egg-link (link to .)
+[1.855s] Installing lifecycle_node_manager script to /ws/ros2_ws/src/install/lifecycle_py/lib/lifecycle_py
+[1.855s] Installing move_robot_server script to /ws/ros2_ws/src/install/lifecycle_py/lib/lifecycle_py
+[1.856s] Installing number_publisher script to /ws/ros2_ws/src/install/lifecycle_py/lib/lifecycle_py
+[1.856s] 
+[1.856s] Installed /ws/ros2_ws/src/build/lifecycle_py
+[1.856s] running symlink_data
+[1.881s] Invoked command in '/ws/ros2_ws/src/build/lifecycle_py' returned '0': PYTHONPATH=/ws/ros2_ws/src/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/lifecycle_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/src/build/lifecycle_py/build --no-deps symlink_data

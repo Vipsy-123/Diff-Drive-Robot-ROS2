@@ -1,0 +1,33 @@
+[0.798s] Invoking command in '/ws/ros2_ws/src/build/activity': AMENT_PREFIX_PATH=/ws/ros2_ws/src/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/ws/ros2_ws/src/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/ws/ros2_ws/src/install/my_robot_interfaces/lib:/ws/ros2_ws/install/my_robot_interfaces/lib:/ws/r2_ws/install/r2_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/share/gazebo-11/../../lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/ws/ros2_ws/src/build/activity/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/activity/lib/python3.10/site-packages:/ws/ros2_ws/src/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/src/build/activity/build --no-deps symlink_data
+[1.025s] running develop
+[1.025s] /home/vipul/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[1.025s] !!
+[1.025s] 
+[1.025s]         ********************************************************************************
+[1.025s]         Please avoid running ``setup.py`` and ``easy_install``.
+[1.025s]         Instead, use pypa/build, pypa/installer or other
+[1.025s]         standards-based tools.
+[1.025s] 
+[1.025s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[1.025s]         ********************************************************************************
+[1.025s] 
+[1.025s] !!
+[1.025s]   easy_install.initialize_options(self)
+[1.147s] running egg_info
+[1.156s] writing activity.egg-info/PKG-INFO
+[1.156s] writing dependency_links to activity.egg-info/dependency_links.txt
+[1.156s] writing entry points to activity.egg-info/entry_points.txt
+[1.156s] writing requirements to activity.egg-info/requires.txt
+[1.156s] writing top-level names to activity.egg-info/top_level.txt
+[1.174s] reading manifest file 'activity.egg-info/SOURCES.txt'
+[1.175s] writing manifest file 'activity.egg-info/SOURCES.txt'
+[1.184s] running build_ext
+[1.184s] Creating /ws/ros2_ws/src/install/activity/lib/python3.10/site-packages/activity.egg-link (link to .)
+[1.185s] Installing batteryNode script to /ws/ros2_ws/src/install/activity/lib/activity
+[1.185s] Installing ledPanelNode script to /ws/ros2_ws/src/install/activity/lib/activity
+[1.185s] Installing num_pub script to /ws/ros2_ws/src/install/activity/lib/activity
+[1.186s] Installing number_counter script to /ws/ros2_ws/src/install/activity/lib/activity
+[1.186s] 
+[1.186s] Installed /ws/ros2_ws/src/build/activity
+[1.186s] running symlink_data
+[1.205s] Invoked command in '/ws/ros2_ws/src/build/activity' returned '0': AMENT_PREFIX_PATH=/ws/ros2_ws/src/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/ws/ros2_ws/src/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/ws/ros2_ws/src/install/my_robot_interfaces/lib:/ws/ros2_ws/install/my_robot_interfaces/lib:/ws/r2_ws/install/r2_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/share/gazebo-11/../../lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/ws/ros2_ws/src/build/activity/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/activity/lib/python3.10/site-packages:/ws/ros2_ws/src/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/src/build/activity/build --no-deps symlink_data

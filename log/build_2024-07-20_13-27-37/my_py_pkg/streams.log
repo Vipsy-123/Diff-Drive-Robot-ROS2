@@ -1,0 +1,42 @@
+[1.551s] Invoking command in '/ws/ros2_ws/src/build/my_py_pkg': PYTHONPATH=/ws/ros2_ws/src/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/src/build/my_py_pkg/build --no-deps symlink_data
+[2.086s] running develop
+[2.086s] /home/vipul/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[2.086s] !!
+[2.086s] 
+[2.086s]         ********************************************************************************
+[2.086s]         Please avoid running ``setup.py`` and ``easy_install``.
+[2.086s]         Instead, use pypa/build, pypa/installer or other
+[2.086s]         standards-based tools.
+[2.086s] 
+[2.086s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[2.086s]         ********************************************************************************
+[2.087s] 
+[2.087s] !!
+[2.087s]   easy_install.initialize_options(self)
+[2.338s] running egg_info
+[2.338s] creating my_py_pkg.egg-info
+[2.349s] writing my_py_pkg.egg-info/PKG-INFO
+[2.349s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[2.349s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[2.349s] writing requirements to my_py_pkg.egg-info/requires.txt
+[2.349s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[2.349s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[2.374s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[2.374s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[2.387s] running build_ext
+[2.387s] Creating /ws/ros2_ws/src/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[2.387s] Installing add_two_ints_client script to /ws/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[2.388s] Installing add_two_ints_client_no_oop script to /ws/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[2.388s] Installing add_two_ints_client_simple script to /ws/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[2.388s] Installing add_two_ints_server script to /ws/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[2.388s] Installing number_publisher script to /ws/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[2.388s] Installing py_pub script to /ws/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[2.388s] Installing py_sub script to /ws/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[2.388s] 
+[2.388s] Installed /ws/ros2_ws/src/build/my_py_pkg
+[2.388s] running symlink_data
+[2.388s] creating /ws/ros2_ws/src/install/my_py_pkg/share/ament_index
+[2.388s] creating /ws/ros2_ws/src/install/my_py_pkg/share/ament_index/resource_index
+[2.388s] creating /ws/ros2_ws/src/install/my_py_pkg/share/ament_index/resource_index/packages
+[2.388s] symbolically linking /ws/ros2_ws/src/build/my_py_pkg/resource/my_py_pkg -> /ws/ros2_ws/src/install/my_py_pkg/share/ament_index/resource_index/packages
+[2.388s] symbolically linking /ws/ros2_ws/src/build/my_py_pkg/package.xml -> /ws/ros2_ws/src/install/my_py_pkg/share/my_py_pkg

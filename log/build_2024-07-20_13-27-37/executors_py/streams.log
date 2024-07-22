@@ -1,0 +1,37 @@
+[1.631s] Invoking command in '/ws/ros2_ws/src/build/executors_py': PYTHONPATH=/ws/ros2_ws/src/build/executors_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/executors_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/src/build/executors_py/build --no-deps symlink_data
+[1.946s] running develop
+[1.946s] /home/vipul/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[1.947s] !!
+[1.947s] 
+[1.947s]         ********************************************************************************
+[1.947s]         Please avoid running ``setup.py`` and ``easy_install``.
+[1.947s]         Instead, use pypa/build, pypa/installer or other
+[1.947s]         standards-based tools.
+[1.947s] 
+[1.947s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[1.947s]         ********************************************************************************
+[1.947s] 
+[1.947s] !!
+[1.947s]   easy_install.initialize_options(self)
+[2.107s] running egg_info
+[2.107s] creating executors_py.egg-info
+[2.118s] writing executors_py.egg-info/PKG-INFO
+[2.118s] writing dependency_links to executors_py.egg-info/dependency_links.txt
+[2.118s] writing entry points to executors_py.egg-info/entry_points.txt
+[2.118s] writing requirements to executors_py.egg-info/requires.txt
+[2.119s] writing top-level names to executors_py.egg-info/top_level.txt
+[2.119s] writing manifest file 'executors_py.egg-info/SOURCES.txt'
+[2.141s] reading manifest file 'executors_py.egg-info/SOURCES.txt'
+[2.141s] writing manifest file 'executors_py.egg-info/SOURCES.txt'
+[2.153s] running build_ext
+[2.154s] Creating /ws/ros2_ws/src/install/executors_py/lib/python3.10/site-packages/executors-py.egg-link (link to .)
+[2.154s] Installing multi_threaded_executor script to /ws/ros2_ws/src/install/executors_py/lib/executors_py
+[2.154s] Installing single_threaded_executor script to /ws/ros2_ws/src/install/executors_py/lib/executors_py
+[2.155s] 
+[2.155s] Installed /ws/ros2_ws/src/build/executors_py
+[2.155s] running symlink_data
+[2.155s] creating /ws/ros2_ws/src/install/executors_py/share/ament_index
+[2.155s] creating /ws/ros2_ws/src/install/executors_py/share/ament_index/resource_index
+[2.155s] creating /ws/ros2_ws/src/install/executors_py/share/ament_index/resource_index/packages
+[2.156s] symbolically linking /ws/ros2_ws/src/build/executors_py/resource/executors_py -> /ws/ros2_ws/src/install/executors_py/share/ament_index/resource_index/packages
+[2.156s] symbolically linking /ws/ros2_ws/src/build/executors_py/package.xml -> /ws/ros2_ws/src/install/executors_py/share/executors_py

@@ -1,0 +1,35 @@
+[0.038s] Invoking command in '/ws/ros2_ws/src/build/my_robot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/my_robot_interfaces -- -j24 -l24
+[0.893s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_generator_c[0m
+[0.893s] [  1%] Built target my_robot_interfaces__cpp
+[0.893s] [ 12%] Built target my_robot_interfaces__rosidl_generator_c
+[0.893s] [ 12%] Built target ament_cmake_python_symlink_my_robot_interfaces
+[0.893s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_cpp[0m
+[0.893s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[0.894s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_introspection_cpp[0m
+[0.894s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_introspection_c[0m
+[0.894s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_fastrtps_c[0m
+[0.894s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_c[0m
+[0.894s] [ 24%] Built target my_robot_interfaces__rosidl_typesupport_introspection_c
+[0.894s] [ 35%] Built target my_robot_interfaces__rosidl_typesupport_introspection_cpp
+[0.894s] [ 47%] Built target my_robot_interfaces__rosidl_typesupport_cpp
+[0.894s] [ 58%] Built target my_robot_interfaces__rosidl_typesupport_c
+[0.894s] [ 77%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_c
+[0.894s] [ 81%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.895s] [ 81%] Built target my_robot_interfaces
+[0.895s] [ 82%] Built target my_robot_interfaces__py
+[0.895s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_generator_py[0m
+[0.895s] [ 93%] Built target my_robot_interfaces__rosidl_generator_py
+[0.895s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.895s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[0.895s] [35m[1mConsolidate compiler generated dependencies of target my_robot_interfaces__rosidl_typesupport_c__pyext[0m
+[0.895s] [ 97%] Built target my_robot_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.895s] [ 97%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.895s] [100%] Built target my_robot_interfaces__rosidl_typesupport_c__pyext
+[0.896s] running egg_info
+[0.896s] writing my_robot_interfaces.egg-info/PKG-INFO
+[0.896s] writing dependency_links to my_robot_interfaces.egg-info/dependency_links.txt
+[0.896s] writing top-level names to my_robot_interfaces.egg-info/top_level.txt
+[0.896s] reading manifest file 'my_robot_interfaces.egg-info/SOURCES.txt'
+[0.896s] writing manifest file 'my_robot_interfaces.egg-info/SOURCES.txt'
+[0.896s] [100%] Built target ament_cmake_python_build_my_robot_interfaces_egg
+[0.901s] Invoked command in '/ws/ros2_ws/src/build/my_robot_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/my_robot_interfaces -- -j24 -l24

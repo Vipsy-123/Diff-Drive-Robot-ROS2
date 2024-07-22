@@ -1,0 +1,23 @@
+[35m[1mConsolidate compiler generated dependencies of target number_pub_component[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/number_pub_component.dir/src/number_publisher.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library libnumber_pub_component.so[0m
+[100%] Built target number_pub_component
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/lib/libnumber_pub_component.so
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/ament_index/resource_index/package_run_dependencies/components_cpp
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/ament_index/resource_index/parent_prefix_path/components_cpp
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/environment/ament_prefix_path.sh
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/environment/ament_prefix_path.dsv
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/environment/path.sh
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/environment/path.dsv
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/local_setup.bash
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/local_setup.sh
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/local_setup.zsh
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/local_setup.dsv
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/package.dsv
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/ament_index/resource_index/packages/components_cpp
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/ament_index/resource_index/rclcpp_components/components_cpp
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/cmake/components_cppConfig.cmake
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/cmake/components_cppConfig-version.cmake
+-- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/package.xml

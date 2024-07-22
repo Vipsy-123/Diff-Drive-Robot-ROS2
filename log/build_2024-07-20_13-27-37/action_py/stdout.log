@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating action_py.egg-info
+writing action_py.egg-info/PKG-INFO
+writing dependency_links to action_py.egg-info/dependency_links.txt
+writing entry points to action_py.egg-info/entry_points.txt
+writing requirements to action_py.egg-info/requires.txt
+writing top-level names to action_py.egg-info/top_level.txt
+writing manifest file 'action_py.egg-info/SOURCES.txt'
+reading manifest file 'action_py.egg-info/SOURCES.txt'
+writing manifest file 'action_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /ws/ros2_ws/src/install/action_py/lib/python3.10/site-packages/action-py.egg-link (link to .)
+Installing action_challenge_client script to /ws/ros2_ws/src/install/action_py/lib/action_py
+Installing action_challenge_server script to /ws/ros2_ws/src/install/action_py/lib/action_py
+Installing count_until_client script to /ws/ros2_ws/src/install/action_py/lib/action_py
+Installing count_until_server script to /ws/ros2_ws/src/install/action_py/lib/action_py
+
+Installed /ws/ros2_ws/src/build/action_py
+running symlink_data
+creating /ws/ros2_ws/src/install/action_py/share/ament_index
+creating /ws/ros2_ws/src/install/action_py/share/ament_index/resource_index
+creating /ws/ros2_ws/src/install/action_py/share/ament_index/resource_index/packages
+symbolically linking /ws/ros2_ws/src/build/action_py/resource/action_py -> /ws/ros2_ws/src/install/action_py/share/ament_index/resource_index/packages
+symbolically linking /ws/ros2_ws/src/build/action_py/package.xml -> /ws/ros2_ws/src/install/action_py/share/action_py

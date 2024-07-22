@@ -1,0 +1,8 @@
+[35m[1mConsolidate compiler generated dependencies of target cpp_subscriber[0m
+[35m[1mConsolidate compiler generated dependencies of target add_two_ints_server[0m
+[35m[1mConsolidate compiler generated dependencies of target add_two_ints_client[0m
+[35m[1mConsolidate compiler generated dependencies of target cpp_publisher[0m
+[ 37%] Built target add_two_ints_server
+[ 62%] Built target cpp_publisher
+[ 75%] Built target add_two_ints_client
+[100%] Built target cpp_subscriber

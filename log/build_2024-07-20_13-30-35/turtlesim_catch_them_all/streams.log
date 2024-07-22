@@ -1,0 +1,31 @@
+[1.368s] Invoking command in '/ws/ros2_ws/src/build/turtlesim_catch_them_all': PYTHONPATH=/ws/ros2_ws/src/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/src/build/turtlesim_catch_them_all/build --no-deps symlink_data
+[1.635s] running develop
+[1.636s] /home/vipul/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[1.636s] !!
+[1.636s] 
+[1.636s]         ********************************************************************************
+[1.636s]         Please avoid running ``setup.py`` and ``easy_install``.
+[1.636s]         Instead, use pypa/build, pypa/installer or other
+[1.636s]         standards-based tools.
+[1.636s] 
+[1.636s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[1.636s]         ********************************************************************************
+[1.637s] 
+[1.637s] !!
+[1.637s]   easy_install.initialize_options(self)
+[1.800s] running egg_info
+[1.810s] writing turtlesim_catch_them_all.egg-info/PKG-INFO
+[1.810s] writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+[1.810s] writing entry points to turtlesim_catch_them_all.egg-info/entry_points.txt
+[1.811s] writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+[1.811s] writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+[1.832s] reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.833s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.845s] running build_ext
+[1.845s] Creating /ws/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+[1.845s] Installing turtle_controller script to /ws/ros2_ws/src/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[1.845s] Installing turtle_spawner script to /ws/ros2_ws/src/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[1.846s] 
+[1.846s] Installed /ws/ros2_ws/src/build/turtlesim_catch_them_all
+[1.846s] running symlink_data
+[1.869s] Invoked command in '/ws/ros2_ws/src/build/turtlesim_catch_them_all' returned '0': PYTHONPATH=/ws/ros2_ws/src/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/src/build/turtlesim_catch_them_all/build --no-deps symlink_data

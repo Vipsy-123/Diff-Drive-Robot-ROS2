@@ -1,0 +1,12 @@
+[ 12%] [32mBuilding CXX object CMakeFiles/cpp_publisher.dir/src/cpp_publisher.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/add_two_ints_client.dir/src/add_two_ints_client.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/cpp_subscriber.dir/src/cpp_subscriber.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/add_two_ints_server.dir/src/add_two_ints_server.cpp.o[0m
+[ 62%] [32m[1mLinking CXX executable add_two_ints_server[0m
+[ 75%] [32m[1mLinking CXX executable add_two_ints_client[0m
+[ 75%] Built target add_two_ints_server
+[ 75%] Built target add_two_ints_client
+[ 87%] [32m[1mLinking CXX executable cpp_publisher[0m
+[ 87%] Built target cpp_publisher
+[100%] [32m[1mLinking CXX executable cpp_subscriber[0m
+[100%] Built target cpp_subscriber

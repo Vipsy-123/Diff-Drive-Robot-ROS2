@@ -1,0 +1,27 @@
+[0.313s] Invoking command in '/ws/ros2_ws/src/build/components_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/components_cpp -- -j24 -l24
+[0.878s] [35m[1mConsolidate compiler generated dependencies of target number_pub_component[0m
+[0.878s] [ 50%] [32mBuilding CXX object CMakeFiles/number_pub_component.dir/src/number_publisher.cpp.o[0m
+[3.128s] [100%] [32m[1mLinking CXX shared library libnumber_pub_component.so[0m
+[3.258s] [100%] Built target number_pub_component
+[3.267s] Invoked command in '/ws/ros2_ws/src/build/components_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/components_cpp -- -j24 -l24
+[3.283s] Invoking command in '/ws/ros2_ws/src/build/components_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --install /ws/ros2_ws/src/build/components_cpp
+[3.288s] -- Install configuration: ""
+[3.288s] -- Execute custom install script
+[3.288s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/lib/libnumber_pub_component.so
+[3.293s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/ament_index/resource_index/package_run_dependencies/components_cpp
+[3.301s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/ament_index/resource_index/parent_prefix_path/components_cpp
+[3.306s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/environment/ament_prefix_path.sh
+[3.311s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/environment/ament_prefix_path.dsv
+[3.317s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/environment/path.sh
+[3.322s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/environment/path.dsv
+[3.328s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/local_setup.bash
+[3.334s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/local_setup.sh
+[3.339s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/local_setup.zsh
+[3.344s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/local_setup.dsv
+[3.350s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/package.dsv
+[3.355s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/ament_index/resource_index/packages/components_cpp
+[3.360s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/ament_index/resource_index/rclcpp_components/components_cpp
+[3.364s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/cmake/components_cppConfig.cmake
+[3.369s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/cmake/components_cppConfig-version.cmake
+[3.374s] -- Symlinking: /ws/ros2_ws/src/install/components_cpp/share/components_cpp/package.xml
+[3.381s] Invoked command in '/ws/ros2_ws/src/build/components_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --install /ws/ros2_ws/src/build/components_cpp

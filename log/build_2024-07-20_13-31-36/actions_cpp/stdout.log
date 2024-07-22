@@ -1,0 +1,9 @@
+[ 16%] [32mBuilding CXX object CMakeFiles/count_until_server.dir/src/count_until_server.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/count_until_client.dir/src/count_until_client.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/count_until_server_queue_goals.dir/src/count_until_server_queue_goals.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable count_until_server[0m
+[ 83%] [32m[1mLinking CXX executable count_until_server_queue_goals[0m
+[ 83%] Built target count_until_server
+[ 83%] Built target count_until_server_queue_goals
+[100%] [32m[1mLinking CXX executable count_until_client[0m
+[100%] Built target count_until_client

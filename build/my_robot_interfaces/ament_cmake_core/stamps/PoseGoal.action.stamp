@@ -1,0 +1,11 @@
+int64 target_position 
+int64 velocity
+
+---
+
+int64 reached_position
+string message
+
+---
+
+int64 current_position

@@ -1,0 +1,32 @@
+[0.750s] Invoking command in '/ws/ros2_ws/src/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/my_robot_description -- -j24 -l24
+[0.916s] Invoked command in '/ws/ros2_ws/src/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --build /ws/ros2_ws/src/build/my_robot_description -- -j24 -l24
+[0.938s] Invoking command in '/ws/ros2_ws/src/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --install /ws/ros2_ws/src/build/my_robot_description
+[0.948s] -- Install configuration: ""
+[0.948s] -- Execute custom install script
+[0.949s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//urdf/arm.xacro
+[0.949s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//urdf/arm_gazebo.xacro
+[0.949s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//urdf/camera.xacro
+[0.949s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
+[0.949s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
+[0.949s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//urdf/mobile_base_gazebo.xacro
+[0.949s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+[0.949s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//urdf/standalone_arm.urdf.xacro
+[0.949s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//launch/display.launch.py
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/environment/path.sh
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/local_setup.bash
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/local_setup.sh
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[0.950s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[0.950s] -- Symlinking: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/package.dsv
+[0.958s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[0.958s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[0.958s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[0.959s] -- Up-to-date symlink: /ws/ros2_ws/src/install/my_robot_description/share/my_robot_description/package.xml
+[0.966s] Invoked command in '/ws/ros2_ws/src/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/ws/ros2_ws/install/turtlesim_catch_them_all:/ws/ros2_ws/install/activity:/ws/ros2_ws/install/my_py_pkg:/ws/ros2_ws/install/lifecycle_py:/ws/ros2_ws/install/executors_py:/ws/ros2_ws/install/components_py:/ws/ros2_ws/install/action_py:/ws/r2_ws/install/silo_tracking:/ws/r2_ws/install/r2_py:/ws/r2_ws/install/r2_navigation:/ws/r2_ws/install/luna_control:/ws/r2_ws/install/controls:/ws/r2_ws/install/ball_tracking:/opt/ros/humble /usr/bin/cmake --install /ws/ros2_ws/src/build/my_robot_description

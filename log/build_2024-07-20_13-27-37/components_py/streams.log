@@ -1,0 +1,34 @@
+[1.729s] Invoking command in '/ws/ros2_ws/src/build/components_py': PYTHONPATH=/ws/ros2_ws/src/build/components_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/components_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/src/build/components_py/build --no-deps symlink_data
+[2.104s] running develop
+[2.105s] /home/vipul/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[2.105s] !!
+[2.105s] 
+[2.105s]         ********************************************************************************
+[2.105s]         Please avoid running ``setup.py`` and ``easy_install``.
+[2.105s]         Instead, use pypa/build, pypa/installer or other
+[2.105s]         standards-based tools.
+[2.105s] 
+[2.105s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[2.105s]         ********************************************************************************
+[2.105s] 
+[2.105s] !!
+[2.105s]   easy_install.initialize_options(self)
+[2.260s] running egg_info
+[2.260s] creating components_py.egg-info
+[2.270s] writing components_py.egg-info/PKG-INFO
+[2.270s] writing dependency_links to components_py.egg-info/dependency_links.txt
+[2.271s] writing requirements to components_py.egg-info/requires.txt
+[2.271s] writing top-level names to components_py.egg-info/top_level.txt
+[2.271s] writing manifest file 'components_py.egg-info/SOURCES.txt'
+[2.293s] reading manifest file 'components_py.egg-info/SOURCES.txt'
+[2.293s] writing manifest file 'components_py.egg-info/SOURCES.txt'
+[2.305s] running build_ext
+[2.306s] Creating /ws/ros2_ws/src/install/components_py/lib/python3.10/site-packages/components-py.egg-link (link to .)
+[2.306s] 
+[2.306s] Installed /ws/ros2_ws/src/build/components_py
+[2.306s] running symlink_data
+[2.306s] creating /ws/ros2_ws/src/install/components_py/share/ament_index
+[2.306s] creating /ws/ros2_ws/src/install/components_py/share/ament_index/resource_index
+[2.307s] creating /ws/ros2_ws/src/install/components_py/share/ament_index/resource_index/packages
+[2.307s] symbolically linking /ws/ros2_ws/src/build/components_py/resource/components_py -> /ws/ros2_ws/src/install/components_py/share/ament_index/resource_index/packages
+[2.307s] symbolically linking /ws/ros2_ws/src/build/components_py/package.xml -> /ws/ros2_ws/src/install/components_py/share/components_py

@@ -1,0 +1,13 @@
+{
+  "package_name": "my_robot_interfaces",
+  "non_idl_tuples": [
+    "/ws/ros2_ws/src/my_robot_interfaces:msg/HardwareStatus.msg",
+    "/ws/ros2_ws/src/my_robot_interfaces:msg/LedStates.msg",
+    "/ws/ros2_ws/src/my_robot_interfaces:srv/SetLed.srv",
+    "/ws/ros2_ws/src/my_robot_interfaces:srv/CatchTurtle.srv",
+    "/ws/ros2_ws/src/my_robot_interfaces:msg/Turtle.msg",
+    "/ws/ros2_ws/src/my_robot_interfaces:msg/TurtleArray.msg",
+    "/ws/ros2_ws/src/my_robot_interfaces:action/CountUntil.action",
+    "/ws/ros2_ws/src/my_robot_interfaces:action/PoseGoal.action"
+  ]
+}
